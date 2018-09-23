@@ -1,4 +1,3 @@
-# hello_world
-Starters for using github.
+# World Cup 2018 Prediction.
 
-Messages: Trying to make a commit change.
+A small assignment which predicts the winning team of the 2018 FIFA tournament using Logistic Regression. On applies to the beginning matches.
